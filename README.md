@@ -8,6 +8,7 @@
 
 ## 2. Python Basics and Problem Solving
 
+0. Python Basics
 
 1. Lists and Tuples
 

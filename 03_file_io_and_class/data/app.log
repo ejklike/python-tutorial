@@ -1,0 +1,8 @@
+INFO:Application has started.
+WARNING:Disk space is running low.
+INFO:User 'admin' logged in.
+ERROR:Failed to connect to database.
+INFO:Processing request #123.
+WARNING:API response is slow.
+ERROR:Null pointer exception at line 42.
+ERROR:Invalid user input received.

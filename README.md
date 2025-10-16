@@ -18,22 +18,19 @@
 
 4. Dictionaries
 
-## 3. Data Exploration
+## 3. File I/O and Classes
 
 1. File I/O
 
 2. Classes
 
-3. Data Exploration
+## 4. Data Exploration
 
+## 5. Text Mining
 
-## 4. Text Mining
+## 6. Web Scraping
 
-1. Text Mining
-
-2. Web Scraping
-
-3. Text Data Exploration
+## 7. Text Data Exploration
 
 
 ## References

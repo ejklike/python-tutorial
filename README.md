@@ -26,6 +26,12 @@
 
 ## 4. Data Exploration
 
+1. Data Exploration with `pandas`
+
+2. Data Visualization with `seaborn`
+
+3. Data Modeling: Classification
+
 ## 5. Text Mining
 
 ## 6. Web Scraping

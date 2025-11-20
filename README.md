@@ -34,9 +34,20 @@
 
 ## 5. Text Mining
 
+1. Natural Language Processing
+
+2. Word Cloud
+
+3. Word Cloud from CSV
+
 ## 6. Web Scraping
 
-## 7. Text Data Exploration
+1. Selenium and Chromedriver
+
+2. Web Scraping
+
+3. Data Exploration
+
 
 
 ## References
